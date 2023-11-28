@@ -13,11 +13,11 @@ body{
 }
 
 .nav-item{
-	transition: .2s;
+	transition: .5s;
+	
 }
 .nav-item:hover{
-	border: 1px solid gray;
-	border-radius: 10px;
+	background-color: #c2c2c2;
 }
 
 main{
